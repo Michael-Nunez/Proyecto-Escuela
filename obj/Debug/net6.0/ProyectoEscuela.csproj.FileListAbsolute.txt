@@ -1,0 +1,15 @@
+C:\Users\micha\Proyecto Escuela\bin\Debug\net6.0\ProyectoEscuela.exe
+C:\Users\micha\Proyecto Escuela\bin\Debug\net6.0\ProyectoEscuela.deps.json
+C:\Users\micha\Proyecto Escuela\bin\Debug\net6.0\ProyectoEscuela.runtimeconfig.json
+C:\Users\micha\Proyecto Escuela\bin\Debug\net6.0\ProyectoEscuela.dll
+C:\Users\micha\Proyecto Escuela\bin\Debug\net6.0\ref\ProyectoEscuela.dll
+C:\Users\micha\Proyecto Escuela\bin\Debug\net6.0\ProyectoEscuela.pdb
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.csproj.AssemblyReference.cache
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.AssemblyInfoInputs.cache
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.AssemblyInfo.cs
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.csproj.CoreCompileInputs.cache
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.dll
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ref\ProyectoEscuela.dll
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.pdb
+C:\Users\micha\Proyecto Escuela\obj\Debug\net6.0\ProyectoEscuela.genruntimeconfig.cache
